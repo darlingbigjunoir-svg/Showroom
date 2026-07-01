@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
       navLinks.classList.toggle('is-open');
     });
   }
-
+navLinks.classList.toggle('is-open');
   /* ============ HERO CAROUSEL (prev/next + dots) ============ */
   var prevBtn = document.querySelector('.hero-nav-btn.prev');
   var nextBtn = document.querySelector('.hero-nav-btn.next');
