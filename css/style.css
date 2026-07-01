@@ -212,6 +212,9 @@ header{
   background-position:center;
   padding:60px 0;
 }
+.reallife-1{
+  background-image:url('../images/9.jpg');
+}
 .reallife::before{
   content:"";
   position:absolute; inset:0;
